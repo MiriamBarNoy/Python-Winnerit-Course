@@ -1,5 +1,3 @@
-from itertools import count
-
 
 def find_max(*args):
 
